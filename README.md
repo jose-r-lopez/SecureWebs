@@ -13,4 +13,6 @@ FileSync allows registered users to upload, download and share files with non-an
 
 Era Literaria is an online bookshop that implements the classical online shop concepts.
 
+Both websites and associated manuals are in Spanish right now. We expect to translate both items in the future.
+
 The goal of these websites is to be fully educational and, while realistic, are not created to be used to provide any real service. We do really hope they can help you in your training or training your students in the web security field! 
